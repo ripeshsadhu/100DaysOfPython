@@ -1,4 +1,6 @@
 # 100DaysOfPython
-#This is Simply a Fun Project which generates the Band Name 
+Part of the 100DaysOfCodingChallenge
 
-This Generates the Name of the Band upo User Inputting the name of the Birth Place and the name of their Pet.
+This is Simple Fun Project which generates the Band Name 
+
+Code Generates the Name of the Band upon User Inputting the name of the Birth Place and the name of their Pet.
